@@ -46,3 +46,4 @@ windows/flutter/ephemeral/
 # Flutter Generated Assets
 assets/
 .DS_Store
+.metadata
