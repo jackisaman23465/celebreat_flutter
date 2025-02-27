@@ -1,0 +1,19 @@
+name: 📌 需求回報 (Requirement Request)
+description: 提出 Flutter 應用程式的新需求或功能改進
+title: "[Requirement]: "
+labels: ["requirement", "enhancement"]
+assignees: ""
+
+body:
+  - type: markdown
+    attributes:
+      value: "## 📌 需求描述\n請詳細描述你的需求，以及這個需求的目標。"
+
+  - type: textarea
+    id: requirement
+    attributes:
+      label: "🔹 需求概述"
+      description: "請簡要描述此需求的用途和目標。"
+      placeholder: "這個需求的主要目的是..."
+    validations:
+      required: true

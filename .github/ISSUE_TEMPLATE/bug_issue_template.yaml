@@ -1,0 +1,38 @@
+name: 🐛 問題回報 (Bug Report)
+description: 回報應用程式中的錯誤或異常行為
+title: "[Bug]: "
+labels: ["bug"]
+assignees: ""
+
+body:
+  - type: markdown
+    attributes:
+      value: "## 🐛 問題描述\n請詳細描述你遇到的錯誤，並提供重現步驟。"
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: "⚠️ 問題"
+      description: "發生了什麼問題？"
+      placeholder: "請簡要描述錯誤..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "🔄 重現步驟"
+      description: "提供詳細的重現步驟，以便開發團隊確認問題。"
+      placeholder: |
+        1. 進入某個頁面...
+        2. 點擊某個按鈕...
+        3. 發生錯誤...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: "✅ 預期行為"
+      description: "理想狀況下，應該發生什麼？"
+      placeholder: "請描述應該發生的正確行為..."
