@@ -1,4 +1,4 @@
-package com.example.celebreat_flutter_demo
+package com.example.celebreat_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 

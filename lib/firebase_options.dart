@@ -42,17 +42,17 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyD5VWe4QxG58J6dqsoAt2-GKHGqRVJyAvY',
-    appId: '1:640960272372:web:4c551d5f71817dcb1a8ba1',
+    appId: '1:640960272372:web:c2187564637973a91a8ba1',
     messagingSenderId: '640960272372',
     projectId: 'celebreat-e40ce',
     authDomain: 'celebreat-e40ce.firebaseapp.com',
     storageBucket: 'celebreat-e40ce.firebasestorage.app',
-    measurementId: 'G-DQSEE422FX',
+    measurementId: 'G-6410SX9PBF',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCNJhmdFcmpqAKdaHMhBC8FEkPtk5tS8Zw',
-    appId: '1:640960272372:android:1b6977f08b3283841a8ba1',
+    appId: '1:640960272372:android:348a036c58061ab21a8ba1',
     messagingSenderId: '640960272372',
     projectId: 'celebreat-e40ce',
     storageBucket: 'celebreat-e40ce.firebasestorage.app',
@@ -60,31 +60,32 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAXjg8Tn9veMFn9RCOMimhGQyWO-ZiqxPQ',
-    appId: '1:640960272372:ios:f494be4b37fc1cce1a8ba1',
+    appId: '1:640960272372:ios:6988386c902e5d9d1a8ba1',
     messagingSenderId: '640960272372',
     projectId: 'celebreat-e40ce',
     storageBucket: 'celebreat-e40ce.firebasestorage.app',
-    iosClientId: '640960272372-rr3kihfoj6q376g4i56mba6f2g5kddjs.apps.googleusercontent.com',
-    iosBundleId: 'com.example.celebreatFlutterDemo',
+    iosClientId: '640960272372-0gu2hq0ulqs72a5dtd7ksrbjegcbr5ck.apps.googleusercontent.com',
+    iosBundleId: 'com.jagertech.celebreat',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyAXjg8Tn9veMFn9RCOMimhGQyWO-ZiqxPQ',
-    appId: '1:640960272372:ios:f494be4b37fc1cce1a8ba1',
+    appId: '1:640960272372:ios:cdbb9c8637954f621a8ba1',
     messagingSenderId: '640960272372',
     projectId: 'celebreat-e40ce',
     storageBucket: 'celebreat-e40ce.firebasestorage.app',
-    iosClientId: '640960272372-rr3kihfoj6q376g4i56mba6f2g5kddjs.apps.googleusercontent.com',
-    iosBundleId: 'com.example.celebreatFlutterDemo',
+    iosClientId: '640960272372-qu6ufiqb6ndfk9prb2ue6slupua9303o.apps.googleusercontent.com',
+    iosBundleId: 'com.jagertech.celebreatDesktop',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyD5VWe4QxG58J6dqsoAt2-GKHGqRVJyAvY',
-    appId: '1:640960272372:web:b12920c257dc85851a8ba1',
+    appId: '1:640960272372:web:c2187564637973a91a8ba1',
     messagingSenderId: '640960272372',
     projectId: 'celebreat-e40ce',
     authDomain: 'celebreat-e40ce.firebaseapp.com',
     storageBucket: 'celebreat-e40ce.firebasestorage.app',
-    measurementId: 'G-XH47LK37MT',
+    measurementId: 'G-6410SX9PBF',
   );
+
 }
