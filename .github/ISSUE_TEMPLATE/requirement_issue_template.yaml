@@ -2,7 +2,7 @@ name: 📌 需求回報 (Requirement Request)
 description: 提出 Flutter 應用程式的新需求或功能改進
 title: "[Requirement]: "
 labels: ["requirement", "enhancement"]
-assignees: ""
+assignees: "jackisaman23465"
 
 body:
   - type: markdown

@@ -2,7 +2,7 @@ name: 🐛 問題回報 (Bug Report)
 description: 回報應用程式中的錯誤或異常行為
 title: "[Bug]: "
 labels: ["bug"]
-assignees: ""
+assignees: "jackisaman23465"
 
 body:
   - type: markdown
